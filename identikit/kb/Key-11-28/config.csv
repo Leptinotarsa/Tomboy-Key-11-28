@@ -1,9 +1,9 @@
 ﻿Key,Type,Mandatory,Value,Date,Notes,,,,,,0
 #Main metadata about the key (e.g. for citing the key),,,,,,,,,,,
-title,metadata,yes,Identikit  key to Ceratina of the Pacific Northwest,,,,,,,,
+title,metadata,yes,Identikit key: Select Andrena Examples,,,,,,,,
 year,metadata,yes,2022,,,,,,,,
-authors,metadata,yes,"David Cappaert, Lincoln Best",,,,,,,,
-publisher,metadata,no,"Quamash EcoResearch, Oregon Bee Atlas",,,,,,,,
+authors,metadata,yes,David Cappaert,,,,,,,,
+publisher,metadata,no,Draft - DiscoverLife Expt,,,,,,,,
 location,metadata,no,"Corvallis, OR",,,,,,,,
 contact,metadata,no,,,,,,,,,
 version,metadata,yes,1.9.0,,,,,,,,
